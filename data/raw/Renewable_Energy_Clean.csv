@@ -1,0 +1,91 @@
+Cn,Yr,Rec,Gdp,CO2,Group,REC Group,rec Group,CO2 Group,gdp Category,Period,rec Level
+Aus,2015,8.3,2.16,16.82,Developed,Low rec,Low rec,High CO2,Medium,Before 2020,Low
+Aus,2016,9.2,2.76,16.89,Developed,Low rec,Low rec,High CO2,Medium,Before 2020,Low
+Aus,2017,9.3,2.29,16.72,Developed,Low rec,Low rec,High CO2,Medium,Before 2020,Low
+Aus,2018,9.4,2.87,16.39,Developed,Low rec,Low rec,High CO2,Medium,Before 2020,Low
+Aus,2019,9.6,2.19,16.1,Developed,Low rec,Low rec,High CO2,Medium,Before 2020,Low
+Aus,2020,9.9,-0.13,15.3,Developed,Low rec,Low rec,High CO2,Low,2020 and After,Low
+Aus,2021,9.8,2.01,14.98,Developed,Low rec,Low rec,High CO2,Medium,2020 and After,Low
+Aus,2022,10.3,4.25,14.53,Developed,Low rec,Low rec,High CO2,Medium,2020 and After,Low
+Aus,2023,11.2,3.58,14.16,Developed,High rec,High rec,High CO2,Medium,2020 and After,High
+Aus,2024,12.3,1.37,14.1,Developed,High rec,High rec,High CO2,Low,2020 and After,High
+Can,2015,21.8,0.65,16.09,Developed,High rec,High rec,High CO2,Low,Before 2020,High
+Can,2016,22.2,1.04,15.9,Developed,High rec,High rec,High CO2,Low,Before 2020,High
+Can,2017,22.2,3.03,16.2,Developed,High rec,High rec,High CO2,Medium,Before 2020,High
+Can,2018,22.3,2.74,16.52,Developed,High rec,High rec,High CO2,Medium,Before 2020,High
+Can,2019,22.1,1.91,16.19,Developed,High rec,High rec,High CO2,Low,Before 2020,High
+Can,2020,22.8,-5.04,14.42,Developed,High rec,High rec,High CO2,Low,2020 and After,High
+Can,2021,22.3,5.95,14.69,Developed,High rec,High rec,High CO2,High,2020 and After,High
+Can,2022,22.4,4.7,14.78,Developed,High rec,High rec,High CO2,Medium,2020 and After,High
+Can,2023,23.9,1.95,14.16,Developed,High rec,High rec,High CO2,Low,2020 and After,High
+Can,2024,23.8,2.05,14.01,Developed,High rec,High rec,High CO2,Medium,2020 and After,High
+China,2015,11.5,6.98,7.79,Developing,High rec,High rec,Low CO2,High,Before 2020,High
+China,2016,11.5,6.77,7.76,Developing,High rec,High rec,Low CO2,High,Before 2020,High
+China,2017,11.9,6.89,7.88,Developing,High rec,High rec,Low CO2,High,Before 2020,High
+China,2018,12.2,6.76,8.22,Developing,High rec,High rec,Low CO2,High,Before 2020,High
+China,2019,12.6,6.07,8.39,Developing,High rec,High rec,Low CO2,High,Before 2020,High
+China,2020,13.1,2.34,8.48,Developing,High rec,High rec,Low CO2,Medium,2020 and After,High
+China,2021,13.5,8.57,8.89,Developing,High rec,High rec,Low CO2,High,2020 and After,High
+China,2022,14.3,3.13,8.87,Developing,High rec,High rec,Low CO2,Medium,2020 and After,High
+China,2023,14.9,5.42,9.23,Developing,High rec,High rec,Low CO2,High,2020 and After,High
+China,2024,15.2,4.96,9.32,Developing,High rec,High rec,Low CO2,Medium,2020 and After,High
+India,2015,34.8,8,1.72,Developing,High rec,High rec,Low CO2,High,Before 2020,High
+India,2016,34.9,8.26,1.72,Developing,High rec,High rec,Low CO2,High,Before 2020,High
+India,2017,33.9,6.8,1.8,Developing,High rec,High rec,Low CO2,High,Before 2020,High
+India,2018,33.4,6.45,1.86,Developing,High rec,High rec,Low CO2,High,Before 2020,High
+India,2019,33,3.87,1.84,Developing,High rec,High rec,Low CO2,Medium,Before 2020,High
+India,2020,32.5,-5.78,1.68,Developing,High rec,High rec,Low CO2,Low,2020 and After,High
+India,2021,32.9,9.69,1.84,Developing,High rec,High rec,Low CO2,High,2020 and After,High
+India,2022,33.5,7.61,1.97,Developing,High rec,High rec,Low CO2,High,2020 and After,High
+India,2023,36.1,7.21,2.1,Developing,High rec,High rec,Low CO2,High,2020 and After,High
+India,2024,34.9,7.1,2.17,Developing,High rec,High rec,Low CO2,High,2020 and After,High
+Indonesia,2015,30.1,4.88,1.96,Developing,High rec,High rec,Low CO2,Medium,Before 2020,High
+Indonesia,2016,30.6,5.03,1.92,Developing,High rec,High rec,Low CO2,High,Before 2020,High
+Indonesia,2017,29.3,5.07,2,Developing,High rec,High rec,Low CO2,High,Before 2020,High
+Indonesia,2018,26.6,5.17,2.21,Developing,High rec,High rec,Low CO2,High,Before 2020,High
+Indonesia,2019,27.8,5.02,2.34,Developing,High rec,High rec,Low CO2,High,Before 2020,High
+Indonesia,2020,25.2,-2.07,2.17,Developing,High rec,High rec,Low CO2,Low,2020 and After,High
+Indonesia,2021,22,3.7,2.25,Developing,High rec,High rec,Low CO2,Medium,2020 and After,High
+Indonesia,2022,19.8,5.31,2.59,Developing,High rec,High rec,Low CO2,High,2020 and After,High
+Indonesia,2023,21.9,5.05,2.75,Developing,High rec,High rec,Low CO2,High,2020 and After,High
+Indonesia,2024,20.2,5.03,2.87,Developing,High rec,High rec,Low CO2,High,2020 and After,High
+Malaysia,2015,2.5,5.09,8.1,Developing,Low rec,Low rec,Low CO2,High,Before 2020,Low
+Malaysia,2016,2.8,4.45,7.79,Developing,Low rec,Low rec,Low CO2,Medium,Before 2020,Low
+Malaysia,2017,3,5.81,7.35,Developing,Low rec,Low rec,Low CO2,High,Before 2020,Low
+Malaysia,2018,3.4,4.84,7.73,Developing,Low rec,Low rec,Low CO2,Medium,Before 2020,Low
+Malaysia,2019,4.4,4.41,7.63,Developing,Low rec,Low rec,Low CO2,Medium,Before 2020,Low
+Malaysia,2020,5.2,-5.46,7.47,Developing,Low rec,Low rec,Low CO2,Low,2020 and After,Low
+Malaysia,2021,5.3,3.32,7.52,Developing,Low rec,Low rec,Low CO2,Medium,2020 and After,Low
+Malaysia,2022,5.7,9.03,7.98,Developing,Low rec,Low rec,Low CO2,High,2020 and After,Low
+Malaysia,2023,7,3.54,8.04,Developing,Low rec,Low rec,Low CO2,Medium,2020 and After,Low
+Malaysia,2024,7.5,5.11,8.32,Developing,Low rec,Low rec,Low CO2,High,2020 and After,Low
+UAE,2015,0.1,7.09,24.32,Developed,Low rec,Low rec,High CO2,High,Before 2020,Low
+UAE,2016,0.1,5.66,23.78,Developed,Low rec,Low rec,High CO2,High,Before 2020,Low
+UAE,2017,0.1,-1.06,22.16,Developed,Low rec,Low rec,High CO2,Low,Before 2020,Low
+UAE,2018,0.1,1.54,20.04,Developed,Low rec,Low rec,High CO2,Low,Before 2020,Low
+UAE,2019,0.1,1.27,20.95,Developed,Low rec,Low rec,High CO2,Low,Before 2020,Low
+UAE,2020,0.2,-8.69,20.81,Developed,Low rec,Low rec,High CO2,Low,2020 and After,Low
+UAE,2021,0.3,4.55,20.83,Developed,Low rec,Low rec,High CO2,Medium,2020 and After,Low
+UAE,2022,0.7,7.52,19.37,Developed,Low rec,Low rec,High CO2,High,2020 and After,Low
+UAE,2023,0.9,4.3,18.38,Developed,Low rec,Low rec,High CO2,Medium,2020 and After,Low
+UAE,2024,1,3.99,18.26,Developed,Low rec,Low rec,High CO2,Medium,2020 and After,Low
+UK,2015,4.2,2.14,6.39,Developed,Low rec,Low rec,Low CO2,Medium,Before 2020,Low
+UK,2016,5.2,2.21,5.97,Developed,Low rec,Low rec,Low CO2,Medium,Before 2020,Low
+UK,2017,6.6,3.02,5.77,Developed,Low rec,Low rec,Low CO2,Medium,Before 2020,Low
+UK,2018,7.7,1.55,5.64,Developed,Low rec,Low rec,Low CO2,Low,Before 2020,Low
+UK,2019,7.7,1.26,5.39,Developed,Low rec,Low rec,Low CO2,Low,Before 2020,Low
+UK,2020,8.8,-10.05,4.79,Developed,Low rec,Low rec,Low CO2,Low,2020 and After,Low
+UK,2021,10.2,8.54,5.05,Developed,Low rec,Low rec,Low CO2,High,2020 and After,Low
+UK,2022,11.4,5.15,4.81,Developed,High rec,High rec,Low CO2,High,2020 and After,High
+UK,2023,13.6,0.27,4.45,Developed,High rec,High rec,Low CO2,Low,2020 and After,High
+UK,2024,12.2,1.08,4.22,Developed,High rec,High rec,Low CO2,Low,2020 and After,High
+USA,2015,8.5,2.95,15.95,Developed,Low rec,Low rec,High CO2,Medium,Before 2020,Low
+USA,2016,8.9,1.82,15.51,Developed,Low rec,Low rec,High CO2,Low,Before 2020,Low
+USA,2017,9,2.46,15.19,Developed,Low rec,Low rec,High CO2,Medium,Before 2020,Low
+USA,2018,8.9,2.97,15.58,Developed,Low rec,Low rec,High CO2,Medium,Before 2020,Low
+USA,2019,9.3,2.58,15.04,Developed,Low rec,Low rec,High CO2,Medium,Before 2020,Low
+USA,2020,9.7,-2.08,13.47,Developed,Low rec,Low rec,High CO2,Low,2020 and After,Low
+USA,2021,9.9,6.15,14.32,Developed,Low rec,Low rec,High CO2,High,2020 and After,Low
+USA,2022,10.2,2.52,14.42,Developed,Low rec,Low rec,High CO2,Medium,2020 and After,Low
+USA,2023,11,2.93,13.71,Developed,Low rec,Low rec,High CO2,Medium,2020 and After,Low
+USA,2024,10.9,2.79,13.62,Developed,Low rec,Low rec,High CO2,Medium,2020 and After,Low
